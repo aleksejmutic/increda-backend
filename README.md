@@ -29,8 +29,6 @@ The app allows users to:
 - Track progress visually with kanban-style boards  
 - Update task status dynamically  
 
-*(Insert screenshots or GIFs here if you wish later.)*
-
 ---
 
 # How Increda Was Made
