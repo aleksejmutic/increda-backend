@@ -43,6 +43,7 @@ The development started by defining the backend architecture using Spring Boot, 
 |------|---------|
 | **Spring Boot** | Backend REST API development |
 | **React** | Frontend UI and state management |
+| **Hibernate (JPA)** | ORM for interacting with PostgreSQL database |
 | **PostgreSQL** | Relational database for storing tasks, sprints, and boards |
 | **Maven** | Dependency management and build tool |
 | **Git/GitHub** | Version control and project hosting |
@@ -56,7 +57,7 @@ The development started by defining the backend architecture using Spring Boot, 
 - Visual kanban boards for task progress  
 - Incremental updates to tasks and sprints  
 - Fully responsive UI built with React  
-- Backend powered by Spring Boot with JPA/H2 database  
+- Backend powered by Spring Boot with Hibernate (JPA) and PostgreSQL 
 
 ---
 
