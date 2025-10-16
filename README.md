@@ -1,6 +1,6 @@
 # Increda – Scrum Management App
 
-Increda is a Scrum management application designed to help teams plan, track, and organize their work incrementally. Can it be *incredible*? Let’s find out! 🚀  
+Increda is a Scrum management application designed to help teams plan, track, and organize their work incrementally.
 
 The application is built using **Spring Boot** for the backend and **React** for the frontend, providing a smooth and responsive experience for managing Scrum boards, sprints, and tasks.
 
